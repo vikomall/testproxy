@@ -1,3 +1,0 @@
-requests
-Jinja2>=2.7.3
-flask
